@@ -14,7 +14,9 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="MyBatisGenerator" target="1.7" />
       <module name="pinyougou-pojo" target="1.7" />
+      <module name="pinyougou-sellergoods-interface" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
